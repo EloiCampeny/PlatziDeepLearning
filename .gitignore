@@ -1,0 +1,6 @@
+*.png
+*.jpg
+"Curso de Deep Learning con Pytorch"/dl-pytorch/datasets/64x64_SIGNS
+"Curso de Deep Learning con Pytorch"/dl-pytorch/datasets/cifar-10-batches-py
+"Curso de Deep Learning con Pytorch"/dl-pytorch/datasets/summer2winter_yosemite
+"Curso de Deep Learning con Pytorch"/PyTorch-CycleGAN/output
