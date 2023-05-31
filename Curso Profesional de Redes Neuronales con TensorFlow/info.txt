@@ -1,0 +1,20 @@
+# to import data
+
+wget --no-check-certificate https://storage.googleapis.com/platzi-tf2/sign-language-img.zip -O sign-language-img.zip
+
+wget --no-check-certificate https://storage.googleapis.com/platzi-tf2/TomAndJerry.zip -O TomAndJerry.zip
+
+wget --no-check-certificate https://storage.googleapis.com/platzi-tf2/TumorClassification.zip -O TumorClassification.zip
+
+wget --no-check-certificate https://storage.googleapis.com/platzi-tf2/MalariaCells.zip -O MalariaCells.zip
+
+# noteboocks
+
+Notebook Malaria:
+https://colab.research.google.com/drive/10TQClWantn0elEU_SHc8IuTyheRIgGVD?usp=sharing
+
+Notebook TomAndJerry:
+https://colab.research.google.com/drive/1ogv1lNKvltcbVe9XyPK_cb9VO4fp0E8Y?usp=sharing
+
+Notebook Tumor:
+https://colab.research.google.com/drive/1Ksv1KdAkx4DK4Ao090vF3ihw-q5Klg7z?usp=sharing
